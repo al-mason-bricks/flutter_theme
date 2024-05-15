@@ -1,0 +1,14 @@
+[
+    {
+        "package": "flutter_bloc",
+        "version": null,
+        "dev_dependency": false,
+        "require_sdk": false
+    },
+    {
+        "package": "shared_preferences",
+        "version": null,
+        "dev_dependency": false,
+        "require_sdk": false
+    }
+]
